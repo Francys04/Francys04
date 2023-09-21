@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">I am a beginner Python and JavaScript programmer</h3>
 <div class="grid-container">
-  <div class="grid-item"><p align="left"> <img src="https://komarev.com/ghpvc/?username=francys04&label=Profile%20views&color=0e75b6&style=flat" alt="francys04" /> </p>
+  <div class="grid-item flex"><p align="left"> <img src="https://komarev.com/ghpvc/?username=francys04&label=Profile%20views&color=0e75b6&style=flat" alt="francys04" /> </p>
   <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47bw251odcy70gwygw8a42b6x8brrueq91l5nkajxs&amp;ep=v1_gifs_search&amp;rid=giphy.gif&amp;ct=g" alt="Coding Work From Home GIF by Domme Space" style="width: 500px; height: 375px; left: 0px; top: 0px; opacity: 0;"></div>
-  <div class="grid-item"><p align="right"><img src="https://media3.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=ecf05e478afcecwjkju1zhhws7vnmv1wmhi8f03t5fcecoyv&amp;ep=v1_gifs_search&amp;rid=giphy.gif&amp;ct=g" alt="Data Coding GIF by DataCamp" style="width: 500px; height: 261.667px; left: 0px; top: 0px; opacity: 0;"></p></div>
+  <div class="grid-item flex"><p align="right"><img src="https://media3.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=ecf05e478afcecwjkju1zhhws7vnmv1wmhi8f03t5fcecoyv&amp;ep=v1_gifs_search&amp;rid=giphy.gif&amp;ct=g" alt="Data Coding GIF by DataCamp" style="width: 500px; height: 261.667px; left: 0px; top: 0px; opacity: 0;"></p></div>
 </div>  
   
 
